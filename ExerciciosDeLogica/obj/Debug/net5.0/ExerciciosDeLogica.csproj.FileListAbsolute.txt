@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ExerciciosDeLogica.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ExerciciosDeLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ExerciciosDeLogica.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ExerciciosDeLogica.AssemblyInfo.cs
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ExerciciosDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\bin\Debug\net5.0\ExerciciosDeLogica.exe
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\bin\Debug\net5.0\ExerciciosDeLogica.deps.json
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\bin\Debug\net5.0\ExerciciosDeLogica.runtimeconfig.json
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\bin\Debug\net5.0\ExerciciosDeLogica.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\bin\Debug\net5.0\ExerciciosDeLogica.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\bin\Debug\net5.0\ref\ExerciciosDeLogica.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\bin\Debug\net5.0\ExerciciosDeLogica.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ExerciciosDeLogica.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ref\ExerciciosDeLogica.dll
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ExerciciosDeLogica.pdb
+C:\Users\user\OneDrive\Área de Trabalho\Projetos\projetos\Exercicios\ExerciciosDeLogica\ExerciciosDeLogica\obj\Debug\net5.0\ExerciciosDeLogica.genruntimeconfig.cache
